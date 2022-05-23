@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="1" class="java.lang.String" itemvalue="Django" />
+            <item index="2" class="java.lang.String" itemvalue="xadmin" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="vlog.views.login_request" />
+          <option value="astar_backup.rpslam_astar.breezyslam" />
+          <option value="astar_backup.rpslam_astar.roboviz" />
+          <option value="app.redirect_back" />
+          <option value="bluelog.settings.ProductionConfig" />
+          <option value="bluelog.settings.config" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
